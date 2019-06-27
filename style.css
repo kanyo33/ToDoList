@@ -1,0 +1,11 @@
+ul#tasks input[type="text"] {
+    border: 0;
+    background: white;
+    cursor: pointer;
+}
+.container, .form-group, .form-control, #taskForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
